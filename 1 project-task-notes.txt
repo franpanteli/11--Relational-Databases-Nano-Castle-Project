@@ -1,3 +1,16 @@
 These are my notes on the project task page. This project is called "Build a Castle." The URL for the page which these notes are on is https://www.freecodecamp.org/learn/relational-database/learn-nano-by-building-a-castle/build-a-castle
 
-- INSERT
+About this guided project:
+	- This is a 40-lesson guided project 
+	- This guided project builds castles in the terminal using Nano 
+	- We are using a text editor in the terminal 
+
+To complete the guided project:
+	- Copy the project boilerplate code in a Gitpod environment 
+	- Open the command palette (command, shift, p)
+	- CodeRoad: Start
+	- Complete the guided project 
+
+Saving progress: 
+	- You have to complete all of the project progress in one go (without backing out of Gitpod)
+		- Otherwise your progress might not be saved -> in which case you would have to redo it
