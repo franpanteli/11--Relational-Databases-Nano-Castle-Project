@@ -15,6 +15,23 @@ For this project, I had to ...INSERT. My notes on the full task brief for this a
 - INSERT [`INSERT_FILE_LINKS`](INSERT)
 - I created in-depth notes for this [which are here](https://github.com/franpanteli/11--Relational-Databases-Nano-Castle-Project/blob/main/2%20relational-databases-nano-castle-project-course-notes.txt)
 
+```
+echo "
+Welcome to my castle
+"
+
+echo "
+ /\                /\ 
+/  \              /  \ 
+|  |______________|  |
+|                    |
+|   []    []    []   |
+|                    |
+|         __         |
+|________|  |________|
+"
+```
+
 ## To Clone This Repository
 ```
 git clone https://github.com/franpanteli/Relational-Databases-Nano-Castle-Project.git
