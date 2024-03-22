@@ -4,7 +4,7 @@ I independently completed [my eleventh project](https://www.freecodecamp.org/lea
 
 ## Constructing a Castle With Nano
 ### Problem Solving
-For this project, I completed 40 Nano lessons in a Gitpod environment. This produced a shell file ([castle.sh](https://github.com/franpanteli/Relational-Databases-Nano-Castle-Project/blob/main/castle.sh)), which contained a castle. This castle was produced and edited using Nano in a Bash terminal in 40 increments. Full notes on the task brief for this are [here](https://github.com/franpanteli/Relational-Databases-Nano-Castle-Project/blob/main/1%20project-task-notes.txt), and comprehensive notes from the castle 'construction' process with Nano are [here](https://github.com/franpanteli/Relational-Databases-Nano-Castle-Project/blob/main/2%20relational-databases-nano-castle-project-course-notes.txt). These notes include instructions for running the project Bash file. 
+For this project, I completed 40 Nano lessons in a Gitpod environment. This produced a shell file ([castle.sh](https://github.com/franpanteli/Relational-Databases-Nano-Castle-Project/blob/main/castle.sh)), containing a castle. This castle was produced and edited using Nano in a Bash terminal in 40 increments. Full notes on the task brief for this are [here](https://github.com/franpanteli/Relational-Databases-Nano-Castle-Project/blob/main/1%20project-task-notes.txt), and comprehensive notes from the castle 'construction' process with Nano are [here](https://github.com/franpanteli/Relational-Databases-Nano-Castle-Project/blob/main/2%20relational-databases-nano-castle-project-course-notes.txt). These notes include instructions for running the project Bash file. 
 
 ### Project Output 
 This is the contents of the project shell file:
