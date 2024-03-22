@@ -1,1 +1,154 @@
--> INSERT
+-> echo hello nano
+-> touch castle.sh
+-> ls
+-> nano castle.sh
+-> echo hello nano
+-> control x <- To exit out of nano 
+-> bash castle.sh <- To run the shell file in the terminal 
+-> We are going through a series of editing the file using nano, exiting out of nano and then running it in a Bash terminal 
+-> We are now changing the contents of the sh file to this with nano: 
+
+echo "
+
+"
+
+-> Then backing out of it
+-> Then changing this to it:
+
+echo "
+____________________
+"
+
+-> You have to back out of it for the tests to pass
+-> Then we are running it again using bash castle.sh
+-> Then we are changing its contents to this:
+
+echo "
+|____________________|
+"
+
+And backing out of nano again 
+-> Then we repeat the process and change it to this:
+
+  GNU nano 6.2                                                                                castle.sh                                                                                          
+echo "
+|                    |
+|____________________|
+"
+
+-> Bash is to edit the script, and nano is to run it 
+-> We are repeating the process again, but now this is what it looks like:
+
+  GNU nano 6.2                                                                                castle.sh *                                                                                        
+echo "
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|____________________|
+"
+
+-> You can copy and paste in nano 
+-> This is after the next iteration of the process:
+
+  GNU nano 6.2                                                                                castle.sh                                                                                          
+echo "
+|  |______________|  |
+|                    |
+|                    |
+|                    |
+|                    |
+|____________________|
+"
+-> Edit the file with nano, and then run the script with bash 
+-> Repeating the process, so that now the file looks like this:
+
+  GNU nano 6.2                                                                                castle.sh *                                                                                        
+echo "
+/  \              /  \
+|  |______________|  |
+|                    |
+|                    |
+|                    |
+|                    |
+|____________________|
+"
+-> After the next iteration of this process:
+
+  GNU nano 6.2                                                                                castle.sh *                                                                                        
+echo "
+ /\                /\
+/  \              /  \
+|  |______________|  |
+|                    |
+|                    |
+|                    |
+|                    |
+|____________________|
+"
+
+-> Then running the program again, by using bash castle.sh
+-> The same process is repeated, and spaces added where there are x's in the diagram below:
+
+  GNU nano 6.2                                                                                castle.sh *                                                                                        
+echo "
+ /\                /\x
+/  \              /  \x
+|  |______________|  |
+|                    |
+|                    |
+|                    |
+|                    |
+|____________________|
+"
+
+-> Then using bash.sh file again, to test the script 
+-> Repeating this process, and making changes to the fourth floor of the castle 
+
+  GNU nano 6.2                                                                                castle.sh *                                                                                        
+echo "
+ /\                /\ 
+/  \              /  \ 
+|  |______________|  |
+|                    |
+|   []    []    []   |                    
+|                    |
+|                    |
+|____________________|
+"
+
+-> Repeating the process, so now the castle looks like this:
+
+  GNU nano 6.2                                                                                castle.sh                                                                                          
+echo "
+ /\                /\ 
+/  \              /  \ 
+|  |______________|  |
+|                    |
+|   []    []    []   |
+|                    |
+|         __         |
+|________|  |________|
+"
+-> Then backing out of nano 
+-> bash castle.sh <- Then running the shell file again, to see how this looks in the terminal 
+-> Repeating this process and adding another echo statement above the castle:
+
+  GNU nano 6.2                                                                                castle.sh                                                                                          
+echo "
+Welcome to my castle
+"
+
+echo "
+ /\                /\ 
+/  \              /  \ 
+|  |______________|  |
+|                    |
+|   []    []    []   |
+|                    |
+|         __         |
+|________|  |________|
+"
+
+-> Then repeating testing the script with bash castle.sh
